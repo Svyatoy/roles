@@ -17,6 +17,5 @@
         "psr-0": {
             "Bican\\Roles": "src/"
         }
-    },
-    "minimum-stability":"stable"
+    }
 }
