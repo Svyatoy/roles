@@ -18,5 +18,5 @@
             "Bican\\Roles": "src/"
         }
     },
-    "stability":"stable"
+    "minimum-stability":"stable"
 }
